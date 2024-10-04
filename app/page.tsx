@@ -5,7 +5,7 @@ export default function Home() {
     <main className="flex flex-col items-center justify-between min-h-screen p-24">
 
 
-      <div>
+      <div className="grid mb-32 text-center lg:mb-0 lg:w-full lg:max-w-5xl lg:grid-cols-2">
         发布页
       </div>
 
